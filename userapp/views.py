@@ -5,3 +5,5 @@ def index():
     pass
 def login():
     pass
+def register():
+    pass
